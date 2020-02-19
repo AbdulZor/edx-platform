@@ -433,7 +433,7 @@ class UserProfile(models.Model):
     MITx fall prototype.
 
     .. pii: Contains many PII fields. Retired in AccountRetirementView.
-    .. pii_types: name, location, birth_date, gender, biography
+    .. pii_types: name, location, birth_date, gender, biography, phone_number
     .. pii_retirement: local_api
     """
     # cache key format e.g user.<user_id>.profile.country = 'SG'
