@@ -6,6 +6,7 @@ Contributions to Open edX are very welcome, and strongly encouraged! We've
 put together `some documentation that describes our contribution process`_,
 but here's a step-by-step guide that should help you get started.
 
+
 .. _some documentation that describes our contribution process: https://edx.readthedocs.org/projects/edx-developer-guide/en/latest/process/index.html
 
 Step 0: Join the Conversation
